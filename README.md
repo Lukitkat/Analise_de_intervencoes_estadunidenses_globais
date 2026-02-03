@@ -6,6 +6,10 @@ O objetivo é investigar se a atuação da superpotência se alinha mais com a f
 
 ## Como executar o projeto
 
+Para visualizar o projeto online, basta acessar o link do Github Pages:
+
+https://lukitkat.github.io/Analise_de_intervencoes_estadunidenses_globais/
+
 Para visualizar o projeto localmente, basta rodar um servidor HTTP na pasta raiz.
 
 1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
