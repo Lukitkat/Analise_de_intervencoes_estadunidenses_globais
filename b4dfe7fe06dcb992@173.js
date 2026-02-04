@@ -783,6 +783,7 @@ function _11(d3, topojson, world, data2) {
 
   // Título da legenda - FONTE MASSIVA
   svg.append("text")
+    .attr("x", legendX + legendWidth / 2) // Centralizado horizontalmente
     .attr("y", legendY - 15) // Título da legenda
     .attr("text-anchor", "middle") // Centralizado
     .attr("font-size", "24px")
